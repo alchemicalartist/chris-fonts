@@ -6,6 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Chris Denton<chris@alchemicalartistry.xyz>",
-  "license": "MIT"
+  "author": "Chris Denton <chris@alchemicalartistry.xyz>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alchemicalartist/chris-fonts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alchemicalartist/chris-fonts/issues"
+  },
+  "homepage": "https://github.com/alchemicalartist/chris-fonts#readme"
 }
