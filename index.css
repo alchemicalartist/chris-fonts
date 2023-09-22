@@ -1,0 +1,27 @@
+@font-face {
+	font-family: 'chris_semi-sansregular';
+	src:
+		url('./files/chris_semi-sans-webfont.woff2') format('woff2'),
+		url('./files/chris_semi-sans-webfont.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: 'chris_printed_handregular';
+	src:
+    url('./files/chris_printed_hand-webfont.woff2') format('woff2'),
+		url('./files/chris_printed_hand-webfont.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: 'chris_handwritingregular';
+	src:
+		url('./files/chris_handwriting-webfont.woff2') format('woff2'),
+		url('./files/chris_handwriting-webfont.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
